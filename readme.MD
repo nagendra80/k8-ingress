@@ -2,7 +2,7 @@
 
 REGION_CODE=us-east-1
 CLUSTER_NAME=expense
-ACC_ID=315069654700
+ACC_ID=904233121227
 
 ### Permissions
 
